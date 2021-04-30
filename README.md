@@ -13,7 +13,7 @@ Learning every day more  about this mesmerizing world of programming, working  t
 - One scholar work with the development of apps in the health area
 - the other studie the conductor's brainwaves while he play an orchestra 
 
-
+```javascript
 const technologies = [
 'Nodejs',
 'Python',
@@ -32,3 +32,4 @@ const technologies = [
 ]
 const email = 'Rafaelbenvindo@hotmail.com'
 const linkedin = 'https://www.linkedin.com/in/rafael-mendes-11118215a/'
+```
