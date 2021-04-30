@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**Pendragon21/Pendragon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey Welcome to my profile 👋
 
-Here are some ideas to get you started:
+My name is Rafael Benvindo (welcome in english), I'm a Computer Engineer in formation from Brazil 🇧🇷, actually in the third year by the Federal University of Ceara  👨🏽‍💻.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning every day more  about this mesmerizing world of programming, working  to learn front-end and machine learning aplications, one day i want to work like a neuroengineer 🧠
+
+### "be a little better everyday" 📚
+
+- From Sobral - Ce
+- I'm a college scholar(twice)
+- One scholar work with the development of apps in the health area
+- the other studie the conductor's brainwaves while he play an orchestra 
+[
+  languages(){
+    JS;
+    Typescript;
+    Python;
+    C++;
+    MySQL;
+    MongoDB
+  }
+  
+  technologies(){
+    React;
+    Laravel;
+    TensorFlow;
+  }
+
+]
