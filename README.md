@@ -12,20 +12,23 @@ Learning every day more  about this mesmerizing world of programming, working  t
 - I'm a college scholar(twice)
 - One scholar work with the development of apps in the health area
 - the other studie the conductor's brainwaves while he play an orchestra 
-[
-  languages(){
-    JS;
-    Typescript;
-    Python;
-    C++;
-    MySQL;
-    MongoDB
-  }
-  
-  technologies(){
-    React;
-    Laravel;
-    TensorFlow;
-  }
 
+
+const technologies = [
+'Nodejs',
+'Python',
+'TensorFlow',
+'scilab';
+'C++',
+'Javascript',
+'Typescript',
+'React',
+'Express',
+'HTML',
+'CSS',
+'MySQL',
+'SQL Server',
+'MongoDB'
 ]
+const email = 'Rafaelbenvindo@hotmail.com'
+const linkedin = 'https://www.linkedin.com/in/rafael-mendes-11118215a/'
