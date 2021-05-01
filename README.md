@@ -15,11 +15,9 @@ Learning every day more  about this mesmerizing world of programming, working  t
 
 ```javascript
 const technologies = [
-'Nodejs',
 'Python',
 'TensorFlow',
 'scilab';
-'C++',
 'Javascript',
 'Typescript',
 'React',
@@ -28,7 +26,6 @@ const technologies = [
 'CSS',
 'MySQL',
 'SQL Server',
-'MongoDB'
 ]
 const email = 'Rafaelbenvindo@hotmail.com'
 const linkedin = 'https://www.linkedin.com/in/rafael-mendes-11118215a/'
