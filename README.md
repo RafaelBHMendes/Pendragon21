@@ -2,7 +2,7 @@
 
 ### Hey Welcome to my profile 👋
 
-My name is Rafael Benvindo (welcome in english), I'm a Computer Engineer in formation from Brazil 🇧🇷, actually in the third year by the Federal University of Ceara (UFC)  👨🏽‍💻.
+My name is Rafael Benvindo (welcome in english), I'm a Computer Engineer in formation from Brazil 🇧🇷, actually in the 9º year by the Federal University of Ceara (UFC)  👨🏽‍💻.
 
 Learning every day more  about this mesmerizing world of programming, working  to learn front-end and machine learning aplications, one day i want to work like a neuroengineer 🧠
 
